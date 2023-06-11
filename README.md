@@ -2,9 +2,10 @@
 
 ### Uso de SOLID en React Native
 
-#### Estudiantes:
+#### Estudiante:
 
 | Nombre  | Carnet |
+|----------|----------|
 | Omar Alexander Rivas Serrano | RS060867 |
 
 
