@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "firebase-auth",
-    "slug": "firebase-auth",
+    "name": "SOLID",
+    "slug": "SOLID",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "firebase-auth"
+  "name": "SOLID"
 }
