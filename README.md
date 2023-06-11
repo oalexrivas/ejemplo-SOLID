@@ -11,4 +11,4 @@
 
 #### Documento:
 
-[Uso de SOLID en React Native](/Autenticación%20con%20Firebase.pdf)
+[Uso de SOLID en React Native](/Principios%20SOLID.pdf)
